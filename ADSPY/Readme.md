@@ -5,7 +5,7 @@ Développement d'un connecteur permettant de :
 
 	- Se connecter automatiquement à Adspy
 
-	- Saisir les critères de recherche pour les produits gagants
+	- Saisir les critères de recherche pour les produits gagnants
 
 	- Récupérer les informations sur ces produits.
 
