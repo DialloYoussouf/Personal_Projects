@@ -3,7 +3,7 @@ Adspy est la plus grande BD publicitaires Facebook et Instagram au monde
 
 Développement d'un connecteur permettant de :
 
-	- Se connecter automatiquement à Adspy
+	- Se connecter automatiquement à Adspy grâce aux identifiants et mot de passe fournis en argument
 
 	- Saisir les critères de recherche pour les produits gagnants
 
@@ -13,7 +13,7 @@ Des informations comme le nom, les liens Adspy, Facebook et du store, le nombre 
 
 de partage sur le produit, ainsi que son prix et la liste des pays où la pub est active.
 
-Aller sur le site web d'ADSPY  et de s'authentifier avec les identifiants et mot de passe fournis en argument.
+
 	
 ### Prérequis: 
    Télécharger [Chromedriver](https://chromedriver.chromium.org/downloads) et l'ajouter au path de votre système.  
